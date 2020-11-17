@@ -1,5 +1,5 @@
 # hello-word
-what can i do em?
+what can i o em?
 
 Hi humans!
 
